@@ -23,9 +23,11 @@ Auf der Unterseite versteckt sich unter dem Filz die SD-Karte. Diese muss so ein
 
 ![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/pics/4.png?raw=true)
 
+![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/pics/5.png?raw=true)
+
 Das Lesegerätfür die Karte befindet sich unter dem mit dem „X“ markierten Bereich über den blauen und der weißen Taste.
 
-![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/pics/5.png?raw=true)
+![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/pics/6.png?raw=true)
 
 ## Karten abspielen
 
@@ -43,6 +45,8 @@ Es gibt zwei Möglichkeiten ins Admin-Menü zu kommen.
 
 1. Man legt den Admin-Chip auf den Kartenlesebereich
 2. Man drückt 3 Sekunden lang gleichzeitig die Tasten Leise / Start / Lauter
+
+![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/pics/7.png?raw=true)
 
 Dann wird man nach einer PIN gefragt, diese lautet: *Lauter / Leiser / Lauter / Leiser*
 
