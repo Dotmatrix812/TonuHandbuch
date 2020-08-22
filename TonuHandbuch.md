@@ -10,7 +10,7 @@ Der Tonuino lässt sich ganz einfach mit 5 Tasten bedienen. Diese können in man
 
 **Gelb:** Leise / Laut
 
-![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/1.jpg?raw=true)
+![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/pics/1.png?raw=true)
 
 Auf der Rückseite befindet sich der Aus- / Einschalter und der Anschluss zum aufladen.
 
