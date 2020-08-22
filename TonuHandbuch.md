@@ -48,30 +48,39 @@ Jetzt muss man mit den Lautstärketasten den gewünschten Wiedergabe Modus ausw�
 ##### Wiedergabe-Modi
 
 *Hörspiel-Modus:*
+
 Eine zufällige Datei aus dem Ordner wiedergeben (Es wird nur ein Titel abgespielt)
 
 *Album-Modus:*
+
 Den kompletten Ordner der Reihe nach wiedergeben
 
 *Party-Modus:*
+
 Den Ordnerzufällig wiedergeben (jede Datei nur einmal)
 
 *Einzel-Modus:*
+
 Eine bestimmte Datei im Ordner wiedergeben
 
 *Hörbuch-Modus:*
+
 Den kompletten Ordner wiedergeben, der Fortschritt wird gespeichert (Es kann nur die aktuell abgespielte Datei gespeichert werden, nicht aber der genaue Punk‘ innerhalb dieser Datei.)
 
 *Adminfunktionen:*
+
 Die Karte wird als Admin-Karte konfiguriert, um damit in das Admin-Menü zu gelangen.
 
 *Spezial-Modus von-bis Hörspiel:*
+
 Eine zufällige Datei innerhalbderStart- und Enddatei wiedergeben (Es wird nur ein Titel abgespielt). Dazu muss nach der Auswahl des Modus,erst die Startdatei mit den Lautstärketasten ausgewählt werden (kurzer Druck- einfacher Schritt, langer Druck - 10 Schritte) und mit der weißen Taste bestätigt werden und die Enddatei muss auch mit den Lautstärketasten ausgewählt werden und mit der weißen Taste bestätigt werden.
 
 *Spezial-Modus von-bis Album:*
+
 Alle Dateien zwischen der Start- und Enddatei wiedergeben. Dazu muss nach der Auswahl des Modus, erst die Startdatei mit den Lautstärketasten ausgewählt werden (kurzer Druck- einfacher Schritt, langer Druck - 10 Schritte) und mit der weißen Taste bestätigt werden und die Enddatei muss mit den Lautstärketasten ausgewählt werden und mit der weißen Taste bestätigt werden.
 
 *Spezial-Modus von-bis Party:*
+
 Alle Dateien zwischen der Start- und Enddatei wiedergeben (jede Datei nur einmal) Dazu muss nach der Auswahl des Modus,erst die Startdatei mit den Lautstärketasten ausgewählt werden (kurzer Druck - einfacher Schritt, langer Druck - 10 Schritte) und mit der weißen Taste bestätigt werden und die Enddatei muss mit den Lautstärketasten ausgewählt werden und mit der weißen Taste bestätigt werden.
 
 
