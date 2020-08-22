@@ -10,6 +10,8 @@ Der Tonuino lässt sich ganz einfach mit 5 Tasten bedienen. Diese können in man
 
 **Gelb:** Leise / Laut
 
+![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/1.jpg?raw=true)
+
 Auf der Rückseite befindet sich der Aus- / Einschalter und der Anschluss zum aufladen.
 
 Auf der Unterseite versteckt sich unter dem Filz die SD-Karte. Diese muss so eingelegt werden, dass man ihre Beschriftung lesen kann.
