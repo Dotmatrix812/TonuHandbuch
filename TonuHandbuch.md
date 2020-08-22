@@ -153,10 +153,10 @@ Diese Auswahl wird mit der weißen Taste (Start/Stopp/Pause) bestätigt.
 Hat man z.B. in einem Ordner mehrere Märchen, Lieder oder anderes und möchte für jede Datei eine eigene Karte nutzen, dann kann man hier bequem diese Karten erstellen. Man wählt zuerst mit den Lautstärketasten den gewünschten Ordner aus. Dann wählt man die Datei aus, mit der man beginnen will und zum Schluss wählt man noch die Datei aus, die die letzte sein soll. Danach wird vom Tonuino vorgegeben welche Karte programmiert wird.
 *Beispiel:* Im Ordner Märchen liegen drei Märchen. Diese könnte man nun von Hand kompliziert einzeln jeweils einer Karte zuordnen, oder aber diese Funktion hier nutzen:
 
-Ordner 1 Märchen
-|-----------------1_Titel1.mp3
-|-----------------2_Titel2.mp3
-|-----------------3_Titel3.mp3
+Ordner 1 Märchen  
+|-----------------1_Titel1.mp3  
+|-----------------2_Titel2.mp3  
+|-----------------3_Titel3.mp3  
 
 Hier würde man nun als Ordner den Ordner 1 auswählen, dann als Starttitel den Titel 1 und als Endtitel den Titel 3. Nun legt man nach Aufforderung die 3 Karten der Reihe nach auf den Tonuino. Danach ist die Zuordnung wie folgt:
 
