@@ -160,9 +160,9 @@ Ordner 1 Märchen
 
 Hier würde man nun als Ordner den Ordner 1 auswählen, dann als Starttitel den Titel 1 und als Endtitel den Titel 3. Nun legt man nach Aufforderung die 3 Karten der Reihe nach auf den Tonuino. Danach ist die Zuordnung wie folgt:
 
-Karte 1 ——> Ordner1/1_Titel1.mp3
-Karte 2 ——> Ordner1/2_Titel2.mp3
-Karte 3 ——> Ordner1/3_Titel3.mp3
+Karte 1 ——> Ordner1/1_Titel1.mp3  
+Karte 2 ——> Ordner1/2_Titel2.mp3  
+Karte 3 ——> Ordner1/3_Titel3.mp3  
 
 Jede Karte spielt nur die eine zugeordnete Datei ab.
 
@@ -211,4 +211,24 @@ Um die eigenen MP3-Dateien auf der SD-Karte zu strukturieren, können max. 99 Or
 
 Beispiel:
 
-SD-Karte
+SD-Karte  
+| - 01  
+|    |--001_Lied1.mp3  
+|    |--002_Lied2.mp3  
+|  
+| - 02  
+|    |--001_Lied1.mp3  
+|    |--002_Lied2.mp3  
+|    |--003_Lied3.mp3  
+|  
+| - 03  
+|    |--001_Lied1.mp3  
+|    |--002_Lied2.mp3  
+|    |--003_Lied3.mp3  
+|  
+|  
+| - advert **(nicht ändern)**  
+|  
+| - mp3 **(nicht ändern)**  
+
+
