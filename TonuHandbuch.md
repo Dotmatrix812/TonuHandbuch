@@ -12,11 +12,20 @@ Der Tonuino lässt sich ganz einfach mit 5 Tasten bedienen. Diese können in man
 
 ![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/pics/1.png?raw=true)
 
+![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/pics/2.png?raw=true)
+
+
 Auf der Rückseite befindet sich der Aus- / Einschalter und der Anschluss zum aufladen.
+
+![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/pics/3.png?raw=true)
 
 Auf der Unterseite versteckt sich unter dem Filz die SD-Karte. Diese muss so eingelegt werden, dass man ihre Beschriftung lesen kann.
 
+![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/pics/4.png?raw=true)
+
 Das Lesegerätfür die Karte befindet sich unter dem mit dem „X“ markierten Bereich über den blauen und der weißen Taste.
+
+![alt text](https://github.com/Dotmatrix812/TonuHandbuch/blob/master/pics/5.png?raw=true)
 
 ## Karten abspielen
 
