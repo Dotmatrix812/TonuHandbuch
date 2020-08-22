@@ -232,3 +232,24 @@ SD-Karte
 | - mp3 **(nicht ändern)**  
 
 
+
+**Hinweis:** Die Karten werden immer auf Ordner und Lieder programmiert, dass bedeutet, wenn manz.B. die Reihenfolge der Lieder in einem Ordner ändert, man die Karten neu anlernen muss, da sie sonst nicht mehr den richtigen Titel wiedergeben.
+
+Es macht Sinn, den Spezialmodus von-bis zu nutzen, da man so verschiedene Alben nicht in einzelnen Ordnern ablegen muss um diese zu trennen, sondern man kann  verschiedene Alben auch in einem Ordner speichern und kann sie aber trotzdem verschiedenen Karten zuweisen. So kann man trotz der nur 99 möglichen Ordner aber mehr als 99 Alben mit den Karten verwalten.
+
+SD-Karte  
+| - 01  
+|    |--001_Album1_Lied1.mp3  
+|    |--002_Album1_Lied2.mp3  
+|    |--003_Album1_Lied3.mp3  
+|    |--004_Album2_Lied1.mp3  
+|    |--005_Album2_Lied2.mp3  
+|    |--006_Album2_Lied3.mp3  
+|    |--007_Album3_Lied1.mp3  
+|    |--008_Album3_Lied2.mp3  
+
+Hier würde man 3 Karten im Spezialmodus Album von-bis konfigurieren: 
+
+Karte 1: Ordner 1 von 1 bis 3  
+Karte 2: Ordner 1 von 4 bis 6  
+Karte 3: Ordner 1 von 7 bis 8  
